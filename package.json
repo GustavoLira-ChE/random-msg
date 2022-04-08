@@ -1,0 +1,20 @@
+{
+  "name": "random-msg",
+  "version": "1.0.0",
+  "description": "random of message",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "node",
+    "npm"
+  ],
+  "author": "Gustavo Lira",
+  "license": "ISC",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
